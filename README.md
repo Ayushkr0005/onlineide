@@ -1,19 +1,17 @@
 
 # MERN Online IDE
 
-An online IDE built using the MERN stack that supports multiple languages with real-time input/output using Docker containers.
+An online IDE built using the MERN stack that supports multiple languages with real-time input/output.
 
 ## Features
 - Multi-language support (C, C++, Java, Python, etc.)
 - Monaco code editor (like VS Code)
 - Live input/output
-- Docker sandbox for code execution
 - User auth & code save (MongoDB)
 
 ## Setup Instructions
 
 ### Prerequisites
-- Docker & Docker Compose
 - Node.js & npm
 
 ### Run Locally
