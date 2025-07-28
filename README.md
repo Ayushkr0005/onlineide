@@ -27,7 +27,3 @@ npm install
 npm start
 ```
 
-### Run with Docker
-```
-docker-compose up --build
-```
